@@ -4,7 +4,7 @@
 		module="scalatest-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20161025093452"
+		publication="20161025131653"
 		e:scalaVersion="2.10" e:sbtVersion="0.13"
 	>
 		<description>
@@ -37,5 +37,7 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.10.6" conf="scala-tool->default,optional(default);provided->default(compile)"/>
 		<dependency org="org.scala-sbt" name="sbt" rev="0.13.12" conf="provided->default(compile)"/>
 		<dependency org="com.eed3si9n" name="sbt-assembly" rev="0.14.3" conf="compile->default(compile)" e:scalaVersion="2.10" e:sbtVersion="0.13"/>
+		<dependency org="org.scoverage" name="sbt-scoverage" rev="1.4.0" conf="compile->default(compile)" e:scalaVersion="2.10" e:sbtVersion="0.13"/>
+		<dependency org="com.artima.supersafe" name="sbtplugin" rev="1.0.6-M1" conf="compile->default(compile)" e:scalaVersion="2.10" e:sbtVersion="0.13"/>
 	</dependencies>
 </ivy-module>

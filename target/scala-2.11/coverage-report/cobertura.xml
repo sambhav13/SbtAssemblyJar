@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage 
+line-rate="0.50" lines-valid="8" lines-covered="4" branches-valid="0" branches-covered="0" branch-rate="1.00" complexity="0" version="1.0" timestamp="1477382621504">
+    <sources>
+        <source>--source</source>
+        <source>C:/Users/e01218/scalaPrograms/ScalaTest/src/main/scala</source>
+    </sources>
+    <packages>
+        <package name="&lt;empty&gt;" line-rate="0.50" branch-rate="1.00" complexity="0">
+            <classes>
+                <class name="HelloSbt" filename="HelloSbt.scala" line-rate="0.00" branch-rate="0.00" complexity="0">
+                    <methods>
+                        <method name="&lt;empty&gt;/HelloSbt/main" signature="()V" line-rate="0.00" branch-rate="0.00" complexity="0">
+                            <lines>
+                                <line number="6" hits="0" branch="false"/>
+                            </lines>
+                        </method>
+                    </methods>
+                    <lines>
+                        <line number="6" hits="0" branch="false"/>
+                    </lines>
+                </class>
+                <class name="Pizza" filename="Pizza.scala" line-rate="0.57" branch-rate="1.00" complexity="0">
+                    <methods>
+                        <method name="&lt;empty&gt;/Pizza/addTopping" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="7" hits="1" branch="false"/>
+                                <line number="7" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="&lt;empty&gt;/Pizza/removeTopping" signature="()V" line-rate="0.00" branch-rate="0.00" complexity="0">
+                            <lines>
+                                <line number="8" hits="0" branch="false"/>
+                                <line number="8" hits="0" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="&lt;empty&gt;/Pizza/boom" signature="()V" line-rate="0.00" branch-rate="0.00" complexity="0">
+                            <lines>
+                                <line number="11" hits="0" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="&lt;empty&gt;/Pizza/&lt;none&gt;" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="5" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                        <method name="&lt;empty&gt;/Pizza/getToppings" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="9" hits="1" branch="false"/>
+                            </lines>
+                        </method>
+                    </methods>
+                    <lines>
+                        <line number="11" hits="0" branch="false"/>
+                        <line number="5" hits="1" branch="false"/>
+                        <line number="8" hits="0" branch="false"/>
+                        <line number="7" hits="1" branch="false"/>
+                        <line number="9" hits="1" branch="false"/>
+                        <line number="7" hits="1" branch="false"/>
+                        <line number="8" hits="0" branch="false"/>
+                    </lines>
+                </class>
+            </classes>
+        </package>
+    </packages>
+</coverage>
