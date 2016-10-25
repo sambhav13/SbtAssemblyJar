@@ -8,5 +8,5 @@ class Pizza {
   def removeTopping (t: Topping) { toppings -= t}
   def getToppings = toppings.toList
   
-  def boom { throw new Exception("Boomi!") }
+  def boom { throw new Exception("Boomed!") }
 }
