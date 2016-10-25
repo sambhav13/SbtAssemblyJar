@@ -18,7 +18,7 @@
 [0m[[0minfo[0m] [0mCompiling 3 Scala sources to C:\Users\e01218\scalaPrograms\ScalaTest\target\scala-2.11\classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.11.7[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.12:component from component compiler for Scala 2.11.7[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 481efbaf, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 61674cec, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-Xplugin:C:\Users\e01218\.ivy2\cache\com.artima.supersafe\supersafe_2.11.7\jars\supersafe_2.11.7-1.0.6-M1.jar[0m
 [0m[[0mdebug[0m] [0m	-Xplugin:C:\Users\e01218\.ivy2\cache\org.scoverage\scalac-scoverage-plugin_2.11\jars\scalac-scoverage-plugin_2.11-1.2.0.jar[0m
@@ -33,7 +33,7 @@
 [0m[[0minfo[0m] [0m[info] Instrumentation completed [8 statements][0m
 [0m[[0minfo[0m] [0m[info] Wrote instrumentation file [C:\Users\e01218\scalaPrograms\ScalaTest\target\scala-2.11\scoverage-data\scoverage.coverage.xml][0m
 [0m[[0minfo[0m] [0m[info] Will write measurement data to [C:\Users\e01218\scalaPrograms\ScalaTest\target\scala-2.11/scoverage-data][0m
-[0m[[0mdebug[0m] [0mScala compilation took 3.1987092 s[0m
+[0m[[0mdebug[0m] [0mScala compilation took 3.211269442 s[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\e01218\scalaPrograms\ScalaTest\src\main\scala\HelloSbt.scala...[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\e01218\scalaPrograms\ScalaTest\src\main\scala\HelloSbt.scala...[0m
 [0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\e01218\scalaPrograms\ScalaTest\src\main\scala\HelloSbt.scala)[0m

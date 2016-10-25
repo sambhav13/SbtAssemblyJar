@@ -1356,7 +1356,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.4!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 494ms :: artifacts dl 16ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 484ms :: artifacts dl 13ms[0m
 [0m[[0mdebug[0m] [0m	report for com.appliedscala.tutorials.sbt#scalatest_2.11;1.0-SNAPSHOT compile produced in C:\Users\e01218\scalaPrograms\ScalaTest\target\resolution-cache\reports\com.appliedscala.tutorials.sbt-scalatest_2.11-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for com.appliedscala.tutorials.sbt#scalatest_2.11;1.0-SNAPSHOT runtime produced in C:\Users\e01218\scalaPrograms\ScalaTest\target\resolution-cache\reports\com.appliedscala.tutorials.sbt-scalatest_2.11-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for com.appliedscala.tutorials.sbt#scalatest_2.11;1.0-SNAPSHOT test produced in C:\Users\e01218\scalaPrograms\ScalaTest\target\resolution-cache\reports\com.appliedscala.tutorials.sbt-scalatest_2.11-test.xml[0m
@@ -1371,5 +1371,5 @@
 [0m[[0mdebug[0m] [0m	report for com.appliedscala.tutorials.sbt#scalatest_2.11;1.0-SNAPSHOT pom produced in C:\Users\e01218\scalaPrograms\ScalaTest\target\resolution-cache\reports\com.appliedscala.tutorials.sbt-scalatest_2.11-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for com.appliedscala.tutorials.sbt#scalatest_2.11;1.0-SNAPSHOT scala-tool produced in C:\Users\e01218\scalaPrograms\ScalaTest\target\resolution-cache\reports\com.appliedscala.tutorials.sbt-scalatest_2.11-scala-tool.xml[0m
 [0m[[0mdebug[0m] [0m	report for com.appliedscala.tutorials.sbt#scalatest_2.11;1.0-SNAPSHOT scoveragePlugin produced in C:\Users\e01218\scalaPrograms\ScalaTest\target\resolution-cache\reports\com.appliedscala.tutorials.sbt-scalatest_2.11-scoveragePlugin.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (494ms resolve - 16ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (484ms resolve - 13ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
